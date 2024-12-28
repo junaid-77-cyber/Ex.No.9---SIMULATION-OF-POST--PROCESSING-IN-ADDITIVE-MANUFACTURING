@@ -48,7 +48,6 @@
 ![s4](https://github.com/user-attachments/assets/cfe196ac-2f06-4595-8f82-24f3f7df881c)
 
 ## Output:
-
 ### Name:Junaid Sardar
 ### Register Number:24003934
 
